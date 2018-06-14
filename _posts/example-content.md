@@ -1,22 +1,16 @@
 ---
 layout: post
-title: Example content
+title: Our Lab
 ---
 
 
 <div class="message">
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+We are a group of evolutionary ecologists who use tools from population genetics, agronomy, conservation biology and field ecology to study how population bottlenecks affect genetic diversity and stress tolerance in wild relatives of crops and in endangered species.  Most of our work is on the wild relatives of chickpea, but we also work with lentil, fenugreek, mungbeans, and mangoes.
 </div>
 
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
-
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
-
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+To find more information on the work we are doing visit our [our lab website](http://ericvonwettberg.wixsite.com/laboratory).
 
 ## Inline HTML elements
-
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
 
 - **To bold text**, use `<strong>`.
 - *To italicize text*, use `<em>`.
@@ -77,46 +71,4 @@ Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at
 
 Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
 
-### Tables
 
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
------
-
-Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
